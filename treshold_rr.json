@@ -1,0 +1,39 @@
+[
+  {
+    "Id_intensitas": "Tidak Hujan",
+    "intensitas": "Tidak Hujan",
+    "treshold_rr_min": 0,
+    "treshold_rr_max": 0.5
+  },
+    {
+      "Id_intensitas": "Hujan ringan",
+      "intensitas": "Hujan ringan",
+      "treshold_rr_min": 0.5,
+      "treshold_rr_max": 20.0
+    },
+    {
+      "Id_intensitas": "Hujan sedang",
+      "intensitas": "Hujan sedang",
+      "treshold_rr_min": 20.0,
+      "treshold_rr_max": 50.0
+    },
+    {
+      "Id_intensitas": "Hujan lebat",
+      "intensitas": "Hujan lebat",
+      "treshold_rr_min": 50.0,
+      "treshold_rr_max": 100.0
+    },
+    {
+      "Id_intensitas": "Hujan sangat lebat",
+      "intensitas": "Hujan sangat lebat",
+      "treshold_rr_min": 100.0,
+      "treshold_rr_max": 150.0
+    },
+    {
+      "Id_intensitas": "Hujan ekstrim",
+      "intensitas": "Hujan ekstrim",
+      "treshold_rr_min": 150.0,
+      "treshold_rr_max": null
+    }
+  ]
+  

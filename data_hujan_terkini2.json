@@ -1,0 +1,772 @@
+[
+  {
+    "id": "14032806",
+    "latitude": "-8.172",
+    "longitude": "113.0043",
+    "rr": "2.8",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "14032807",
+    "latitude": "-7.12065",
+    "longitude": "112.41747",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "14032808",
+    "latitude": "-8.040158",
+    "longitude": "111.7077",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150032",
+    "latitude": "-7.0979417",
+    "longitude": "112.1751361",
+    "rr": "2.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150033",
+    "latitude": "-7.775617",
+    "longitude": "113.6844",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150034",
+    "latitude": "-7.7761",
+    "longitude": "113.1879",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150035",
+    "latitude": "-8.165272",
+    "longitude": "114.2507",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150036",
+    "latitude": "-7.92666",
+    "longitude": "114.3862",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150037",
+    "latitude": "-8.069261",
+    "longitude": "111.848602",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150038",
+    "latitude": "-8.37876",
+    "longitude": "112.6787",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150039",
+    "latitude": "-8.272825",
+    "longitude": "113.3687",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150040",
+    "latitude": "-8.19419",
+    "longitude": "113.7388",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150041",
+    "latitude": "-7.63019",
+    "longitude": "112.3037",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150042",
+    "latitude": "-7.547464",
+    "longitude": "111.653298",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150043",
+    "latitude": "-7.825152",
+    "longitude": "112.305607",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150044",
+    "latitude": "-7.604084",
+    "longitude": "111.4136",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150045",
+    "latitude": "-7.88534",
+    "longitude": "112.81255",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150046",
+    "latitude": "-8.147645",
+    "longitude": "112.1486",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150047",
+    "latitude": "-8.2486",
+    "longitude": "111.3806",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "150311",
+    "latitude": "-8.5522222",
+    "longitude": "114.2502778",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150312",
+    "latitude": "-7.9520944",
+    "longitude": "113.9378417",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150313",
+    "latitude": "-8.21025",
+    "longitude": "111.85783",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150314",
+    "latitude": "-8.154901",
+    "longitude": "112.591065",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150315",
+    "latitude": "-8.12142",
+    "longitude": "113.0591",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "150316",
+    "latitude": "-8.04841",
+    "longitude": "112.69517",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "160050",
+    "latitude": "-7.910921",
+    "longitude": "111.483676",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA0060",
+    "latitude": "-7.46127",
+    "longitude": "111.6134",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0061",
+    "latitude": "-7.66228",
+    "longitude": "111.3155",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0062",
+    "latitude": "-8.06097",
+    "longitude": "112.0605",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0063",
+    "latitude": "-7.5869889",
+    "longitude": "111.904655556",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0064",
+    "latitude": " -8.1496 ",
+    "longitude": "113.6371",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0065",
+    "latitude": " -8.28884",
+    "longitude": "113.9708",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA0069",
+    "latitude": "-7.59164",
+    "longitude": "112.428",
+    "rr": "1.4",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0070",
+    "latitude": "-6.8957",
+    "longitude": "113.2779",
+    "rr": "2.4",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0071",
+    "latitude": "-7.16603",
+    "longitude": "111.8903",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0072",
+    "latitude": "-7.01029",
+    "longitude": "111.9872",
+    "rr": "0.4",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0074",
+    "latitude": "-7.7764",
+    "longitude": "112.2326",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0116",
+    "latitude": " -6.85895",
+    "longitude": "115.2862",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0162",
+    "latitude": "-7.921339",
+    "longitude": "113.1204",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0183",
+    "latitude": "-7.87103",
+    "longitude": "111.47438",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0184",
+    "latitude": "-8.05843",
+    "longitude": "111.90753",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0185",
+    "latitude": "-7.62416",
+    "longitude": "111.52047",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA0187",
+    "latitude": "-7.5869889",
+    "longitude": "111.904655556",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0188",
+    "latitude": "-7.78061",
+    "longitude": "113.38047",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0189",
+    "latitude": "-7.646854",
+    "longitude": "112.909495",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0191",
+    "latitude": "-7.031278",
+    "longitude": "113.547444",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0192",
+    "latitude": "-6.897139",
+    "longitude": "113.807139",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0193",
+    "latitude": "-7.07746",
+    "longitude": "112.573331",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0194",
+    "latitude": "-7.3974167",
+    "longitude": "112.71075",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0196",
+    "latitude": "-8.2109",
+    "longitude": "111.08599",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA0198",
+    "latitude": "-8.166393",
+    "longitude": "113.147928",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA0246",
+    "latitude": "-7.562111",
+    "longitude": "111.159611",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0247",
+    "latitude": "-7.663633",
+    "longitude": "111.341472",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA0248",
+    "latitude": "-8.1218404",
+    "longitude": "113.5938829",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA0249",
+    "latitude": "-8.05123",
+    "longitude": "113.83477",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:20:00 WIB"
+  },
+  {
+    "id": "STA0265",
+    "latitude": "-8.212041",
+    "longitude": "112.751849",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA2057",
+    "latitude": "-7.49361",
+    "longitude": "112.233",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2058",
+    "latitude": "-7.8560889",
+    "longitude": "113.7514417",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2072",
+    "latitude": "-8.174542",
+    "longitude": "113.797201",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2103",
+    "latitude": "-8.163",
+    "longitude": "113.45",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2104",
+    "latitude": "-7.96167",
+    "longitude": "113.40089",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2109",
+    "latitude": "-8.142875",
+    "longitude": "112.2226",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2113",
+    "latitude": "-7.1831861",
+    "longitude": "113.2380472",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2141",
+    "latitude": "-8.15213",
+    "longitude": "112.4506",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2156",
+    "latitude": "-7.535648",
+    "longitude": "111.984832",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2170",
+    "latitude": "-7.09397",
+    "longitude": "112.3298",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2243",
+    "latitude": "-7.71707",
+    "longitude": "114.12265",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2283",
+    "latitude": "-7.7341008",
+    "longitude": "111.7653267",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA2293",
+    "latitude": "-7.924668",
+    "longitude": "112.965523",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA3052",
+    "latitude": "-8.35092806",
+    "longitude": "114.045441144",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA3053",
+    "latitude": "-8.05987",
+    "longitude": "111.8595",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STA3221",
+    "latitude": "-7.809051",
+    "longitude": "111.973412",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA4005",
+    "latitude": "-7.409004",
+    "longitude": "111.371434",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA4006",
+    "latitude": "-7.933889",
+    "longitude": "112.0336",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STA4007",
+    "latitude": "-7.7050028",
+    "longitude": "113.9723",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STG1006",
+    "latitude": "-7.6508",
+    "longitude": "112.5373",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1044",
+    "latitude": "-7.843",
+    "longitude": "112.37",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1045",
+    "latitude": "-7.875",
+    "longitude": "111.617",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1046",
+    "latitude": "-8.24",
+    "longitude": "112.334",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1047",
+    "latitude": "-8.316",
+    "longitude": "113.55",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1048",
+    "latitude": "-7.758",
+    "longitude": "114.262",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1049",
+    "latitude": "-7.781",
+    "longitude": "112.74",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1050",
+    "latitude": "-8.182",
+    "longitude": "111.586",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1051",
+    "latitude": "-8.104",
+    "longitude": "110.99",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STG1052",
+    "latitude": "-8.04",
+    "longitude": "111.356",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STG1053",
+    "latitude": "-7.444",
+    "longitude": "111.963",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1054",
+    "latitude": "-6.913",
+    "longitude": "111.61",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1055",
+    "latitude": "-6.92",
+    "longitude": "112.418",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1056",
+    "latitude": "-6.892",
+    "longitude": "112.959",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1057",
+    "latitude": "-7.109",
+    "longitude": "112.956",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1058",
+    "latitude": "-7.148",
+    "longitude": "113.441",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1059",
+    "latitude": "-7.033",
+    "longitude": "113.362",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1060",
+    "latitude": "-5.85",
+    "longitude": "112.657",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1061",
+    "latitude": "-7.305",
+    "longitude": "112.4276",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1070",
+    "latitude": "-7.09086536",
+    "longitude": "112.70718024",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1071",
+    "latitude": "-7.299872",
+    "longitude": "112.739407",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1072",
+    "latitude": "-7.447473",
+    "longitude": "112.718417",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1073",
+    "latitude": "-7.7038384",
+    "longitude": "112.3653303",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STG1074",
+    "latitude": "-7.7288853",
+    "longitude": "112.0239585",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "STW1016",
+    "latitude": "-7.5091833",
+    "longitude": "112.5317",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STW1017",
+    "latitude": "-7.66404",
+    "longitude": "112.68912",
+    "rr": "0.2",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STW1029",
+    "latitude": "-7.8411",
+    "longitude": "112.523",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "STW1059",
+    "rr": "0.0",
+    "latitude": "-8.090585",
+    "longitude": "111.663082",
+    "timestamp": "2025-07-15 12:50:03 UTC"
+  },
+  {
+    "id": "STW1070",
+    "latitude": "-7.5994",
+    "longitude": "111.743",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:50:00 WIB"
+  },
+  {
+    "id": "aaws0336",
+    "latitude": "-8.21596",
+    "longitude": "113.30183",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "aaws0359",
+    "latitude": "-6.88312",
+    "longitude": "112.0136",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "sta3051",
+    "latitude": "-7.1739",
+    "longitude": "112.0108",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "sta3054",
+    "latitude": "-8.20778",
+    "longitude": "113.4417",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  },
+  {
+    "id": "sta3057",
+    "latitude": "-8.3791",
+    "longitude": "114.14445",
+    "rr": "0",
+    "timestamp": "2025-07-15 19:30:00 WIB"
+  },
+  {
+    "id": "sta3219",
+    "latitude": "-7.60027",
+    "longitude": "111.7428",
+    "rr": "0.0",
+    "timestamp": "2025-07-15 19:40:00 WIB"
+  }
+]
